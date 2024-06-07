@@ -17,4 +17,4 @@
 - Obs: ;
 - Version: v.1.0.0
 
-- Last Update Date: 28/09/2022.
+- Last Update Date: 06/06/2024.
